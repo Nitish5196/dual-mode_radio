@@ -48,5 +48,3 @@ The controller is an ESP32. It controls the display, buttons, rotary encoder and
 <img width="753" height="541" alt="image" src="https://github.com/user-attachments/assets/d8e6322a-a093-423c-87f0-12400f5806f8" />
 <img width="680" height="520" alt="image" src="https://github.com/user-attachments/assets/8215955c-5138-438f-a580-fc1910e61563" />
 
-- Male-to-Female Jumper Wires ×1 set  
-- Female-to-Female Jumper Wires ×1 set 
