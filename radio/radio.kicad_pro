@@ -661,7 +661,7 @@
         "uuid": "917f0f09-e177-4942-9dc3-e57753b2e578"
       }
     ],
-    "used_designators": "U1,#FLG1-3,J1-9,#PWR1-28,SW1-4,C1",
+    "used_designators": "PAM8403_LEFT1,U1,PAM8403_RIGHT1,#FLG1-3,J1-10,#PWR1-28,SW1-4,C1",
     "variants": []
   },
   "sheets": [
